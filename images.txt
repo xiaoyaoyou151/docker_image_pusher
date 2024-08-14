@@ -1,3 +1,4 @@
-nginx:perl
+nginx:stable-perl
+
 
 
