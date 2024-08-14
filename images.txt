@@ -1,2 +1,3 @@
-nginx:latest
+nginx:stable-perl
+
 
